@@ -6,7 +6,6 @@ jump-spx
 @http
 get /
 get /count
-get /another
 
 @tables
 data
