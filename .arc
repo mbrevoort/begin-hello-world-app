@@ -5,7 +5,6 @@ jump-spx
 
 @http
 get /
-get /why-here
 
 @tables
 data
