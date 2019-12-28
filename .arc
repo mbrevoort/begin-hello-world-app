@@ -1,12 +1,11 @@
-# Warning: do not edit
-# --------------------
-# This is a generated file and will be overwritten
-
 @app
-begin-app
+jump-spx
+
+@static
 
 @http
 get /
+get /why-here
 
 @tables
 data
