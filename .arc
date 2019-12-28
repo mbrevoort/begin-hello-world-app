@@ -7,6 +7,7 @@ jump-spx
 get /
 get /count
 get /test
+get /test-route
 
 @tables
 data
