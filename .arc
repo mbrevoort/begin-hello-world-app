@@ -4,7 +4,6 @@ jump-spx
 @static
 
 @http
-get /
 get /count
 
 @tables
